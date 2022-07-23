@@ -10,7 +10,7 @@ ShellStack is a PHP based backdoor management tool. This Tool comes handy for "H
 - And Above all You Can Manage Your Backdoors Efficiently
 
 # How To Use
-1. `git clone https://github.com/Tuhinshubhra/shellstack`
+1. `git clone https://github.com/trhacknon/shellstack`
 2. `cd shellstack`
 3. `php shellstack.php`
 4. `generatebd` and exit the tool use <kbd>CTRL</kbd> + <kbd>C</kbd> - This will generate a backdoor file in the same directory as of the tool in a file named **backdoor.php**
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
                     Simple Backdoor Management System
                     Coded By R3D#@x0R_2H1N A.K.A Tuhinshubhra 
-                    Shout Out: LulZSec India  
+                    Shout Out: trhacknon Anonymous  
 ================================================================================
 
 
